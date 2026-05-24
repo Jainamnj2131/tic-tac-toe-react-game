@@ -1,16 +1,113 @@
-# React + Vite
+# 🎮 Tic Tac Toe React Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Tic Tac Toe game built with React featuring custom player names, leaderboard tracking, winner animations, responsive retro gaming UI, and interactive gameplay.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+### 🎯 Gameplay
+- Interactive 3x3 Tic Tac Toe Board
+- Two Player Turn System
+- Winner Detection
+- Draw Detection
+- Reset Game Option
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 👥 Player Features
+- Custom Player Names
+- Choose X or O Symbol
+- Dynamic Turn Display
+- Winner Announcement
 
-## Expanding the ESLint configuration
+### 🏆 Leaderboard
+- Automatic Score Tracking
+- Reset Scores
+- Reset Players
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ✨ UI Features
+- Modern Gaming Inspired Design
+- Neon Glow Effects
+- Winning Square Animation
+- Responsive Layout
+- Smooth Hover Effects
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- JavaScript
+- CSS3
+- Vite
+
+---
+
+## 📂 Project Structure
+
+```txt
+src/
+│
+├── components/
+│   ├── Board.jsx
+│   ├── Square.jsx
+│
+├── App.jsx
+├── App.css
+├── main.jsx
+```
+
+---
+
+## ⚙️ Installation
+
+Clone repository:
+
+```bash
+git clone YOUR_GITHUB_REPO_LINK
+```
+
+Move into folder:
+
+```bash
+cd tic-tac-toe-react-game
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+Live Site: ADD_YOUR_NETLIFY_LINK_HERE
+
+---
+
+## 📚 Learning Outcomes
+
+This project helped in understanding:
+
+- React State Management
+- Component-Based Architecture
+- useEffect Hook
+- Event Handling
+- Conditional Rendering
+- Dynamic Styling
+- Array State Updates
+- Winner Detection Logic
+- Responsive UI Design
+
+---
+
+## 👨‍💻 Author
+
+Made by Jainam
