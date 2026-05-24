@@ -88,7 +88,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-Live Site: ADD_YOUR_NETLIFY_LINK_HERE
+Live Site: https://retro-tictactoe.netlify.app/ 
 
 ---
 
